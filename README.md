@@ -11,6 +11,7 @@ Based in the Launchpad EXP430FR6989
 * CRC16 in software - to devices without CRC HW
 * Ref_out can be enable (same pin of SW1 in launchpad)
 
+Article published in: https://www.embarcados.com.br/aumentando-a-exatidao-do-adc-do-msp430/
 
 ### DISCLAIMER
 
