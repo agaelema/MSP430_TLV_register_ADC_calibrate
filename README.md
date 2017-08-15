@@ -10,3 +10,8 @@ Based in the Launchpad EXP430FR6989
 * CRC16 HW - To get CRC16 CCITT of TLV Table
 * CRC16 in software - to devices without CRC HW
 * Ref_out can be enable (same pin of SW1 in launchpad)
+
+
+### DISCLAIMER
+
+This software is provided 'as is' with no explicit or implied warranties in respect of its properties, including, but not limited to, correctness and/or fitness for purpose.
